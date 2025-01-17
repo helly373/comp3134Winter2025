@@ -1,0 +1,13 @@
+helly@HP_Envy MINGW64 ~
+$ ping 159.203.29.19
+
+Pinging 159.203.29.19 with 32 bytes of data:
+Reply from 159.203.29.19: bytes=32 time=7ms TTL=57
+Reply from 159.203.29.19: bytes=32 time=43ms TTL=57
+Reply from 159.203.29.19: bytes=32 time=9ms TTL=57
+Reply from 159.203.29.19: bytes=32 time=4ms TTL=57
+
+Ping statistics for 159.203.29.19:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 43ms, Average = 15ms

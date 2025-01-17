@@ -1,0 +1,28 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping  142.251.41.46
+PING 142.251.41.46 (142.251.41.46) 56(84) bytes of data.
+64 bytes from 142.251.41.46: icmp_seq=1 ttl=59 time=2.40 ms
+64 bytes from 142.251.41.46: icmp_seq=2 ttl=59 time=1.47 ms
+64 bytes from 142.251.41.46: icmp_seq=3 ttl=59 time=1.43 ms
+64 bytes from 142.251.41.46: icmp_seq=4 ttl=59 time=1.49 ms
+64 bytes from 142.251.41.46: icmp_seq=5 ttl=59 time=1.47 ms
+64 bytes from 142.251.41.46: icmp_seq=6 ttl=59 time=1.46 ms
+64 bytes from 142.251.41.46: icmp_seq=7 ttl=59 time=1.45 ms
+64 bytes from 142.251.41.46: icmp_seq=8 ttl=59 time=3.46 ms
+64 bytes from 142.251.41.46: icmp_seq=9 ttl=59 time=1.44 ms
+64 bytes from 142.251.41.46: icmp_seq=10 ttl=59 time=1.48 ms
+64 bytes from 142.251.41.46: icmp_seq=11 ttl=59 time=1.47 ms
+64 bytes from 142.251.41.46: icmp_seq=12 ttl=59 time=1.47 ms
+64 bytes from 142.251.41.46: icmp_seq=13 ttl=59 time=1.43 ms
+64 bytes from 142.251.41.46: icmp_seq=14 ttl=59 time=1.49 ms
+^C
+--- 142.251.41.46 ping statistics ---
+14 packets transmitted, 14 received, 0% packet loss, time 13019ms
+rtt min/avg/max/mdev = 1.429/1.669/3.458/0.551 ms
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# ping  142.251.41.46 -w 2
+PING 142.251.41.46 (142.251.41.46) 56(84) bytes of data.
+64 bytes from 142.251.41.46: icmp_seq=1 ttl=59 time=2.39 ms
+64 bytes from 142.251.41.46: icmp_seq=2 ttl=59 time=1.48 ms
+
+--- 142.251.41.46 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1002ms
+rtt min/avg/max/mdev = 1.482/1.933/2.385/0.451 ms
