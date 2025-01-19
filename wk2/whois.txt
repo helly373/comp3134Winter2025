@@ -78,3 +78,378 @@ For more information on Whois status codes, please visit https://icann.org/epp
 % Notice, available at http://www.cira.ca/legal-notice/?lang=en
 %
 % (c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+
+
+--------------------------------------------------------------------------------------------------
+
+Domain Name: amazon.com
+Registry Domain ID: 281209_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-09-29T09:48:15+0000
+Creation Date: 1994-11-01T05:00:00+0000
+Registrar Registration Expiration Date: 2025-10-31T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Hostmaster, Amazon Legal Dept.
+Registrant Organization: Amazon Technologies, Inc.
+Registrant Street: P.O. Box 8102
+Registrant City: Reno
+Registrant State/Province: NV
+Registrant Postal Code: 89507
+Registrant Country: US
+Registrant Phone: +1.2062664064
+Registrant Phone Ext: 
+Registrant Fax: +1.2062667010
+Registrant Fax Ext: 
+Registrant Email: email@amazon.com
+Registry Admin ID: 
+Admin Name: Hostmaster, Amazon Legal Dept.
+Admin Organization: Amazon Technologies, Inc.
+Admin Street: P.O. Box 8102
+Admin City: Reno
+Admin State/Province: NV
+Admin Postal Code: 89507
+Admin Country: US
+Admin Phone: +1.2062664064
+Admin Phone Ext: 
+Admin Fax: +1.2062667010
+Admin Fax Ext: 
+Admin Email: email@amazon.com
+Registry Tech ID: 
+Tech Name: Hostmaster, Amazon Legal Dept.
+Tech Organization: Amazon Technologies, Inc.
+Tech Street: P.O. Box 8102
+Tech City: Reno
+Tech State/Province: NV
+Tech Postal Code: 89507
+Tech Country: US
+Tech Phone: +1.2062664064
+Tech Phone Ext: 
+Tech Fax: +1.2062667010
+Tech Fax Ext: 
+Tech Email: email@amazon.com
+Name Server: ns1.amzndns.net
+Name Server: ns1.amzndns.com
+Name Server: ns1.amzndns.co.uk
+Name Server: ns2.amzndns.net
+Name Server: ns2.amzndns.org
+Name Server: ns2.amzndns.com
+Name Server: ns2.amzndns.co.uk
+Name Server: ns1.amzndns.org
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-15T20:52:11+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to email@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+----
+
+
+-----------------------------------------------------------------------------------------------------
+
+
+Domain Name: indigo.ca
+Registry Domain ID: D396955-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: www.internic.ca
+Updated Date: 2024-12-26T05:02:11Z
+Creation Date: 2000-10-31T04:59:59Z
+Registry Expiry Date: 2025-12-26T05:00:00Z
+Registrar: Internic.ca Inc.
+Registrar IANA ID: not applicable
+Registrar Abuse Contact Email: email@rebel.com
+Registrar Abuse Contact Phone: +1.6132252000
+Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 98889734-CIRA
+Registrant Name: Indigo Books and Music Inc.
+Registrant Organization:
+Registrant Street: 532 Montreal Rd,  Suite 261
+Registrant City: Ottawa
+Registrant State/Province: ON
+Registrant Postal Code: K1K4R4
+Registrant Country: CA
+Registrant Phone: +1.8666421232
+Registrant Phone Ext:
+Registrant Fax: +1.6137061248
+Registrant Fax Ext:
+Registrant Email: email@privacyhero.company
+Registry Admin ID: 98889770-CIRA
+Admin Name: Connor Malcolm
+Admin Organization: Privacy Hero Inc.
+Admin Street: 532 Montreal Rd,  Suite 261
+Admin City: Ottawa
+Admin State/Province: ON
+Admin Postal Code: K1K4R4
+Admin Country: CA
+Admin Phone: +1.8666421232
+Admin Phone Ext:
+Admin Fax: +1.6137061248
+Admin Fax Ext:
+Admin Email: email@privacyhero.company
+Registry Tech ID: 98889770-CIRA
+Tech Name: Connor Malcolm
+Tech Organization: Privacy Hero Inc.
+Tech Street: 532 Montreal Rd,  Suite 261
+Tech City: Ottawa
+Tech State/Province: ON
+Tech Postal Code: K1K4R4
+Tech Country: CA
+Tech Phone: +1.8666421232
+Tech Phone Ext:
+Tech Fax: +1.6137061248
+Tech Fax Ext:
+Tech Email: email@privacyhero.company
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: a1-97.akam.net
+Name Server: a12-64.akam.net
+Name Server: a13-65.akam.net
+Name Server: a16-66.akam.net
+Name Server: a26-67.akam.net
+Name Server: a3-64.akam.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-01-14T05:02:28Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)
+
+
+---------------------------------------------------------------------------------------
+
+
+Domain Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+Updated Date: 2024-04-24T19:06:13Z
+Creation Date: 1997-03-29T05:00:00Z
+Registrar Registration Expiration Date: 2033-03-30T04:00:00Z
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: 3237
+Registrar Abuse Contact Email: email@registrarsafe.com
+Registrar Abuse Contact Phone: +1.6503087004
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Meta Platforms, Inc.
+Registrant Street: 1601 Willow Rd 
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: email@fb.com
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Meta Platforms, Inc.
+Admin Street: 1601 Willow Rd 
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: +1.6505434800
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: email@fb.com
+Registry Tech ID: 
+Tech Name: Domain Admin
+Tech Organization: Meta Platforms, Inc.
+Tech Street: 1601 Willow Rd 
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: email@fb.com
+Name Server: D.NS.FACEBOOK.COM
+Name Server: A.NS.FACEBOOK.COM
+Name Server: B.NS.FACEBOOK.COM
+Name Server: C.NS.FACEBOOK.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-18T09:48:05Z <<<
+
+Search results obtained from the RegistrarSafe, LLC WHOIS database are
+provided by RegistrarSafe, LLC for information purposes only, to assist
+users in obtaining information concerning a domain name registration record.
+The information contained therein is provided on an "as is" and "as available"
+basis and RegistrarSafe, LLC does not guarantee the accuracy or completeness
+of any information provided through the WHOIS database.  By submitting a WHOIS query,
+you agree to the following: (1) that you will use any information provided through
+the WHOIS only for lawful purposes; (2) that you will comply with all ICANN rules
+and regulations governing use of the WHOIS; (3)  that you will not use any information
+provided through the WHOIS to  enable, or otherwise cause the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail (i.e., spam); or
+(4) that you will not use the WHOIS to enable or otherwise utilize high volume,
+automated, electronic processes that apply to or attach to RegistrarSafe, LLC or
+its systems. RegistrarSafe, LLC reserves the right to modify these terms
+at any time and to take any other appropriate actions, including but not limited to
+restricting any access that violates these terms and conditions. By submitting this
+query, you acknowledge and agree to abide by the foregoing terms, conditions and policies.
+
+For more information on Whois status codes, please visit
+    https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+
+-----------------------------------------------------------------------------------------------
+
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-08-02T02:17:33+0000
+Creation Date: 1997-09-15T07:00:00+0000
+Registrar Registration Expiration Date: 2028-09-13T07:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Name Server: ns3.google.com
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-18T19:07:53+0000 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to email@markmonitor.com
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+---------------------------------------------------------------------------------------------
