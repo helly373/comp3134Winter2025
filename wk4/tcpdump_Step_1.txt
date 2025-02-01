@@ -1,0 +1,23 @@
+# tcpdump -i eth0
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+00:25:17.502182 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.52438: Flags [P.], seq 2543265841:2543265949, ack 3538064828, win 501, length 108
+00:25:17.502266 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.52438: Flags [P.], seq 108:264, ack 1, win 501, length 156
+00:25:17.502354 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > 198.96.85.163.52438: Flags [P.], seq 264:368, ack 1, win 501, length 104
+00:25:17.506948 IP 198.96.85.163.52438 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 368, win 255, length 0
+00:25:17.604040 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.42110 > 67.207.67.2.domain: 12635+ [1au] PTR? 163.85.96.198.in-addr.arpa. (55)
+00:25:17.604155 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.33413 > 67.207.67.2.domain: 43714+ [1au] PTR? 163.85.96.198.in-addr.arpa. (55)
+00:25:17.608200 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.42110: 12635 NXDomain 0/1/1 (120)
+00:25:17.608246 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.33413: 43714 NXDomain 0/1/1 (120)
+00:25:17.608460 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.42110 > 67.207.67.2.domain: 12635+ PTR? 163.85.96.198.in-addr.arpa. (44)
+00:25:17.608502 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.33413 > 67.207.67.2.domain: 43714+ PTR? 163.85.96.198.in-addr.arpa. (44)
+00:25:17.611777 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.42110: 12635 NXDomain 0/1/0 (109)
+00:25:17.611777 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.33413: 43714 NXDomain 0/1/0 (109)
+00:25:19.049789 IP 25.150.216.162.bc.googleusercontent.com.50278 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.54524: Flags [S], seq 1372389268, win 65535, options [mss 1460], length 0
+00:25:22.729375 IP rafael.probe.onyphe.net.9381 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.7912: Flags [S], seq 74222471, win 5840, options [mss 1460,TS val 1145389380 ecr 0,wscale 1,sackOK,eol], length 0
+00:25:23.751896 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.59489 > 67.207.67.2.domain: 53880+ [1au] PTR? 19.29.203.159.in-addr.arpa. (55)
+00:25:23.771896 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.59489: 53880 NXDomain 0/1/1 (122)
+00:25:23.772056 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.59489 > 67.207.67.2.domain: 53880+ PTR? 19.29.203.159.in-addr.arpa. (44)
+00:25:23.773383 IP 67.207.67.2.domain > lamp-ubuntu-s-1vcpu-1gb-tor1-01.59489: 53880 NXDomain 0/1/0 (111)

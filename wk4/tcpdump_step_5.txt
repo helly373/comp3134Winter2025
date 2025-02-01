@@ -1,0 +1,25 @@
+# tcpdump -XX -i eth0
+
+04:16:28.376723 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon5049w-grc-28-76-70-112-14.dsl.bell.ca.52499: Flags [P.], seq 3046524:3046768, ack 613, win 544, length 244
+        0x0000:  fe00 0000 0101 9697 fc44 669a 0800 4510  .........Df...E.
+        0x0010:  011c c8a3 4000 4006 f7f5 9fcb 1d13 4c46  ....@.@.......LF
+        0x0020:  700e 0016 cd13 883b 3f18 a259 726a 5018  p......;?..YrjP.
+        0x0030:  0220 7a41 0000 f606 05e1 5e81 8546 d59b  ..zA......^..F..
+        0x0040:  ee25 d05c f5f3 2832 cfd9 c018 a201 6399  .%.\..(2......c.
+        0x0050:  87d4 b7e6 8fd8 0a38 8ff8 2f7f 4c0e c506  .......8../.L...
+        0x0060:  b148 7595 7b4e 78a6 2985 ca61 dab7 6e33  .Hu.{Nx.)..a..n3
+        0x0070:  4cea 816a fb53 4d35 0c9c ff88 2d1b ae04  L..j.SM5....-...
+        0x0080:  fd8a a48e 331a dab4 64c6 a053 cebb c95d  ....3...d..S...]
+        0x0090:  71d4 1f42 c6e5 9052 56cb 3556 3775 cfbf  q..B...RV.5V7u..
+        0x00a0:  e471 3267 f76f 2354 4d3e eca1 5a56 5a29  .q2g.o#TM>..ZVZ)
+        0x00b0:  34bd ab18 1090 1411 cfc9 7f7c bbb3 8601  4..........|....
+^C      0x00c0:  9a8c 7850 bf20 7644 dbdd a6d9 7865 6d1c  ..xP..vD....xem.
+        0x00d0:  cb1c 9bee 8e68 9441 73fc 5982 5b87 e349  .....h.As.Y.[..I
+        0x00e0:  0287 039d 868d 30a4 8bbe 9644 0f12 b8c1  ......0....D....
+        0x00f0:  e2c5 43f2 1181 ac47 3391 85d2 3e79 6f96  ..C....G3...>yo.
+        0x0100:  3366 8863 de49 326c 1369 c9f3 916d 1e3e  3f.c.I2l.i...m.>
+        0x0110:  6c6f c1c2 2095 9342 8115 056b 059d 333d  lo.....B...k..3=
+        0x0120:  5a69 9275 4b32 8a78 82a9                 Zi.uK2.x..
+
+6242 packets captured
+43774 packets received by filter

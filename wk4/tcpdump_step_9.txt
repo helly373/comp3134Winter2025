@@ -1,0 +1,11 @@
+tcpdump -i eth0 tcp
+
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+04:23:00.815149 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon5049w-grc-28-76-70-112-14.dsl.bell.ca.52499: Flags [P.], seq 2294168372:2294168480, ack 2723778850, win 567, length 108
+04:23:00.815241 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon5049w-grc-28-76-70-112-14.dsl.bell.ca.52499: Flags [P.], seq 108:144, ack 1, win 567, length 36
+04:23:00.815269 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon5049w-grc-28-76-70-112-14.dsl.bell.ca.52499: Flags [P.], seq 144:196, ack 1, win 567, length 52
+04:23:00.815314 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon5049w-grc-28-76-70-112-14.dsl.bell.ca.52499: Flags [P.], seq 196:264, ack 1, win 567, length 68
+04:23:00.815358 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon5049w-grc-28-76-70-112-14.dsl.bell.ca.52499: Flags [P.], seq 264:332, ack 1, win 567, length 68
+04:23:00.815399 IP lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh > bras-base-toroon5049w-grc-28-76-70-112-14.dsl.bell.ca.52499: Flags [P.], seq 332:368, ack 1, win 567, length 36
+04:23:00.820519 IP bras-base-toroon5049w-grc-28-76-70-112-14.dsl.bell.ca.52499 > lamp-ubuntu-s-1vcpu-1gb-tor1-01.ssh: Flags [.], ack 368, win 4093, length 0

@@ -1,0 +1,83 @@
+IPTABLES(8)                                iptables 1.8.7                                IPTABLES(8)
+
+NAME
+       iptables/ip6tables — administration tool for IPv4/IPv6 packet filtering and NAT
+
+SYNOPSIS
+       iptables [-t table] {-A|-C|-D} chain rule-specification
+
+       ip6tables [-t table] {-A|-C|-D} chain rule-specification
+
+       iptables [-t table] -I chain [rulenum] rule-specification
+
+       iptables [-t table] -R chain rulenum rule-specification
+
+       iptables [-t table] -D chain rulenum
+
+       iptables [-t table] -S [chain [rulenum]]
+
+       iptables [-t table] {-F|-L|-Z} [chain [rulenum]] [options...]
+
+       iptables [-t table] -N chain
+
+       iptables [-t table] -X [chain]
+
+       iptables [-t table] -P chain target
+
+       iptables [-t table] -E old-chain-name new-chain-name
+
+       rule-specification = [matches...] [target]
+
+       match = -m matchname [per-match-options]
+
+       target = -j targetname [per-target-options]
+
+DESCRIPTION
+       Iptables  and ip6tables are used to set up, maintain, and inspect the tables of IPv4 and IPv6
+       packet filter rules in the Linux kernel.  Several different tables may be defined.  Each  ta‐
+       ble contains a number of built-in chains and may also contain user-defined chains.
+
+       Each  chain is a list of rules which can match a set of packets.  Each rule specifies what to
+       do with a packet that matches.  This is called a `target', which may be a jump to a  user-de‐
+       fined chain in the same table.
+
+TARGETS
+       A  firewall rule specifies criteria for a packet and a target.  If the packet does not match,
+       the next rule in the chain is examined; if it does match, then the next rule is specified  by
+       the  value  of  the target, which can be the name of a user-defined chain, one of the targets
+       described in iptables-extensions(8), or one of the special values ACCEPT, DROP or RETURN.
+
+       ACCEPT means to let the packet through.  DROP means to drop the packet on the floor.   RETURN
+       means stop traversing this chain and resume at the next rule in the previous (calling) chain.
+       If the end of a built-in chain is reached or a rule in a built-in chain with target RETURN is
+       matched, the target specified by the chain policy determines the fate of the packet.
+
+TABLES
+       There  are currently five independent tables (which tables are present at any time depends on
+ Manual page iptables(8) line 1 (press h for help or q to quit)
+
+
+
+--------------------------------------------------------------------------------------------------------------------------
+
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# apt-get update
+Get:1 http://security.ubuntu.com/ubuntu jammy-security InRelease [129 kB]
+Hit:2 http://mirrors.digitalocean.com/ubuntu jammy InRelease
+Get:3 http://mirrors.digitalocean.com/ubuntu jammy-updates InRelease [128 kB]
+Hit:4 https://repos-droplet.digitalocean.com/apt/droplet-agent main InRelease
+Get:5 http://mirrors.digitalocean.com/ubuntu jammy-backports InRelease [127 kB]
+Hit:6 https://ppa.launchpadcontent.net/ondrej/php/ubuntu jammy InRelease
+Get:7 http://mirrors.digitalocean.com/ubuntu jammy-updates/universe amd64 Packages [1184 kB]
+Fetched 1568 kB in 1s (1113 kB/s)
+Reading package lists... Done
+
+
+---------------------------------------------------------------------------------------------------------------------------
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# apt-get install iptables
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+iptables is already the newest version (1.8.7-1ubuntu5.2).
+0 upgraded, 0 newly installed, 0 to remove and 95 not upgraded.
+
+
