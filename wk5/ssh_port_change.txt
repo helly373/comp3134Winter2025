@@ -1,0 +1,3 @@
+6. sudo service sshd restart
+7. ssh -p 2222 root@159.203.29.19
+
