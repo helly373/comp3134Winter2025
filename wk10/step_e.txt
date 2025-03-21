@@ -1,0 +1,10 @@
+Mitigation:
+
+1. Restricting Directory Scope:
+   - Define a fixed base directory (e.g., /var/www/html) so that all user requests are confined to that folder.
+   - Use basename() on the user input to strip away any directory traversal attempts (e.g., "../../etc" becomes "etc"), preventing access to folders above the web root.
+
+2. Validating the Path:
+   - Use file_exists() to ensure that the path actually exists.
+   - Use is_dir() to confirm that the path is a directory and not a file.
+   - Bonus: Check for any dots in the user input to block filename inputs, further reducing the risk of accessing unintended files.

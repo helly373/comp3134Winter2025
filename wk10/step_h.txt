@@ -1,0 +1,2 @@
+Mitigation Strategy:
+To prevent sensitive information from being exposed in the browser, all HTML comments (<!-- ... -->) containing sensitive details have been converted into PHP comments (// ...). PHP comments are processed on the server side and do not appear in the HTML output sent to the client.

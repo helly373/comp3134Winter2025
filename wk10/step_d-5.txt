@@ -1,0 +1,8 @@
+- the query parameter q=%2e%2e%2f (URL-encoded ../), which attempts to go one level up from the 	current directory (/var/www/html). The output shows a directory listing of the parent 	folder, which contains:
+
+	. (current directory)
+	.. (parent directory)
+	html (the web root directory)
+
+- This reveals the directory structure of the server. Knowing the exact server layout can help attackers navigate further or discover other sensitive directories/files.
+

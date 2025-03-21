@@ -1,0 +1,3 @@
+- List of files and directories two levels up from the web root 
+
+- potential exposure of system configuration files or directory structures
