@@ -1,0 +1,7 @@
+1. it changes URL from https://www.dictionary.com/browse/cybersecurity to https://www.dictionary.com/browse/photosynthesis. It opens the page where it describes what the word is 
+
+2. I typed https://www.dictionary.com/browse/pucha and it says "no results found for pucha"
+
+3. Entering the text <script>alert(%27hello%27)</script> into the search form does not trigger any JavaScript execution. The website sanitizes the input by treating the script tags as plain text.
+
+4. When appending <script>alert(%27hello%27)</script> after a URL parameter, the website again sanitizes the input. The script is not executed; instead, the injected code is treated as a literal string. The page either displays the raw query text in the search field or responds with a "word not found" message, confirming that proper input sanitization is in place and preventing potential XSS vulnerabilities.

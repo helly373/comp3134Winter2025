@@ -1,0 +1,14 @@
+Difference Between strip_tags and html_entity Conversion:
+
+1. strip_tags:
+   - Removes all HTML and PHP tags from the input.
+   - If a user inputs <script>alert('hello')</script>, the output becomes "alert('hello')".
+   - It is a simple method to eliminate any HTML code but may remove useful formatting.
+
+2. html_entity Conversion (using functions like htmlspecialchars):
+   - Converts special characters (<, >, &, ', ") to their corresponding HTML entities.
+   - For the same input, <script>alert('hello')</script> is displayed as
+     "&lt;script&gt;alert(&#039;hello&#039;)&lt;/script&gt;".
+   - The tags remain visible as text but are rendered safe since they are not executed as HTML/JavaScript.
+
+Overall, while both methods prevent execution of malicious scripts, strip_tags removes the tags entirely while html_entity conversion preserves the input in a safe, displayable format.
