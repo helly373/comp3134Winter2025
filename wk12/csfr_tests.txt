@@ -1,0 +1,13 @@
+CSRF Test Observations:
+
+1. When using csfr_form.php:
+   - A new session token (confirmation) is generated and included as a hidden field.
+   - Upon form submission, csfr_action.php receives both the session token and the POST token.
+   - The tokens match, and the message "CSRF token matched. Action processed successfully." is displayed.
+   - This confirms that the CSRF protection mechanism is working as intended.
+
+2. When using csfr.html:
+   - The form does not generate or send a proper session token.
+   - On submission, csfr_action.php detects that the token does not match the session value.
+   - The message "CSRF token mismatch. Request denied." is displayed, denying the forged request.
+   - This demonstrates how a CSRF attack would be prevented when a valid token is required.

@@ -1,0 +1,17 @@
+Stored XSS Issues:
+
+1. Lack of Sanitization:
+   - The application reads data from storedxss.txt and outputs it directly without filtering.
+   - This allows any malicious code stored in the file to be executed in the browser.
+
+2. Persistent Attack Vector:
+   - Since the malicious script is stored, every user who accesses storexss.php is exposed to the exploit.
+   - The threat persists until the malicious content is removed.
+
+3. Risk of Malicious Redirection:
+   - The script in storedxss.txt automatically redirects users to "/directory_traversal_part1.php".
+   - An attacker could replace this with a URL to a phishing site or malicious resource, compromising user safety.
+
+4. Overall Security Implications:
+   - Stored XSS can lead to session hijacking, data theft, or further exploitation of the web application.
+   - It highlights the critical need for sanitizing all user-supplied or stored data before rendering it on web pages.
